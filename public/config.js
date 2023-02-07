@@ -1,0 +1,4 @@
+var BASE_URL = 'http://113.20.108.96:11012'
+var WS_URL = 'ws://113.20.108.96:11000/hubs/notify'
+var RECAPCHA_V2_SITE_KEY = '6LdLEKweAAAAAEC6JLmbcAgBtjELVpegG09oPSqv'
+var MINUTES_SCALE_ON_CLICK = 60
