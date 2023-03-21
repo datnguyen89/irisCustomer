@@ -39,6 +39,7 @@ import {
 } from '../../components/PrintExecutionPdfModal/PrintExecutionPdfModalStyled'
 import IMAGES from '../../images'
 import dateUtils from '../../utils/dateUtils'
+import MergeTable from "../../components/MergeTable";
 
 const { TabPane } = Tabs
 
@@ -268,6 +269,7 @@ const TestPage = props => {
         <br />
         <br />
         <br />
+        <MergeTable />
         <br />
         <br />
         <br />
